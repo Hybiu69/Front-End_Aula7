@@ -72,26 +72,6 @@ p {
     border-radius: 5px;
 }
 
-
-#modal {
-    display: none;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 20px;
-    border-radius: 8px;
-}
-
-#modal ul {
-    list-style-type: none;
-    padding-left: 0;
-    background-color: #fff;
-    border-radius: 8px;
-    padding: 10px;
-}
-
-#modal button {
-    margin-top: 10px;
-    background-color: #28a745;
-}
 .destacado{
     margin-top: 15px;
     padding: 20px;
