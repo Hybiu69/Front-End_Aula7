@@ -45,5 +45,6 @@ function incrementar(){
 
 }
 function modal(){
-    const div=document.getElementById("modal").style.display = "block";
+    const div=document.getElementById("modal");
+    div.classList.toggle("block");
 }
